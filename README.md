@@ -1,6 +1,6 @@
 # Thai Discord Chat Datasets
 
-This repository contains datasets of Thai Discord chat conversations that were collected between 2016 and 2022. The dataset files are named as data(01-18).txt and collectively contain a total of 2,869,873 lines of chat.
+This repository contains datasets of Thai Discord chat conversations that were collected between 2016 and 2022. The dataset files are named as data(01-18).txt and collectively contain a total of 28,698,673 lines of chat.
 
 ## Dataset Overview
 
